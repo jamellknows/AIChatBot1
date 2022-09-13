@@ -11,3 +11,5 @@ ValueError: Exception encountered when calling layer "sequential" (type Sequenti
       • mask=None
 
 The input shape is known and is not 0. It just cannot be called when prediciting. The model has a 0.9142% approxima accuracy. 
+
+I also don't like how it is so hard coded, but that is my opnion. 
